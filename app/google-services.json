@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293083501519",
+    "project_id": "appfirebase-fb71e",
+    "storage_bucket": "appfirebase-fb71e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293083501519:android:2becd33ef5e257686d38ba",
+        "android_client_info": {
+          "package_name": "br.unisanta.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUKZ-1RBcpCLEm3fcoflrjKVgt6pd3pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
